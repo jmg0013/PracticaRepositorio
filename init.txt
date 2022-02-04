@@ -5,3 +5,4 @@ Ejercicio 4: Salvar contenido
 Ejercicio 5: Clonar
 Ejercicio 6: Cambiar
 Ejercicio 7: Salvar modificaciones
+Ejercicio 8: Actualizar la copia local
