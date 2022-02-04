@@ -1,0 +1,1 @@
+El ejercicio 1 consiste en configurar Git
